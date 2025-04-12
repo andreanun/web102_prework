@@ -23,16 +23,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/YTtkX2h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/YTtkX2h"  ><a href="//imgur.com/a/YTtkX2h">Prework for WEB102 Summer </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+/private/var/folders/l0/v8_gljyj1192w929kjknpym80000gn/T/663ea4b3aeaed6c81e7097fb148f8730/Kapture 2025-04-12 at 18.18.47.gif
+
+GIF created with Kap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
