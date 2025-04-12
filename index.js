@@ -149,7 +149,7 @@ const descriptionContainer = document.getElementById("description-container");
 const unfundedGameCount = GAMES_JSON.filter(
   (game) => game.pledged < game.goal
 ).length;
-console.log(unfundedGameCount);
+//console.log(unfundedGameCount);
 
 // create a string that explains the number of unfunded games using the ternary operator
 const displayStr =
@@ -165,7 +165,6 @@ descriptionContainer.appendChild(descriptionP);
  * Challenge 7: Select & display the top 2 games
  * Skills used: spread operator, destructuring, template literals, sort
  */
-
 const firstGameContainer = document.getElementById("first-game");
 const secondGameContainer = document.getElementById("second-game");
 
@@ -174,7 +173,14 @@ const sortedGames = GAMES_JSON.sort((item1, item2) => {
 });
 
 // use destructuring and the spread operator to grab the first and second games
+const [firstPlaceGame, secondPlaceGame] = [...sortedGames];
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
+const topGame = document.createElement("h3");
+topGame.innerHTML = firstPlaceGame.name;
+firstGameContainer.appendChild(topGame);
 
 // do the same for the runner up item
+const secondPlace = document.createElement("h3");
+secondPlace.innerHTML = secondPlaceGame.name;
+secondGameContainer.appendChild(secondPlace);
