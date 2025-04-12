@@ -28,8 +28,6 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-/private/var/folders/l0/v8_gljyj1192w929kjknpym80000gn/T/663ea4b3aeaed6c81e7097fb148f8730/Kapture 2025-04-12 at 18.18.47.gif
-
 GIF created with Kap
 
 <!-- Recommended tools:
