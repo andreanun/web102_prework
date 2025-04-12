@@ -30,7 +30,7 @@ Here's a walkthrough of implemented features:
 GIF created with Kap
 
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+[Kap](https://getkap.co/) for macOS -->
 
 ## Notes
 
