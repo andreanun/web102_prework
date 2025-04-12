@@ -2,7 +2,7 @@
 
 Submitted by: **Andrea Nunoo**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **5** hours spent in total
 
@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/YTtkX2h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![Walkthrough](web102_prework/assets/Kapture 2025-04-12 at 18.18.47.gif)
+<img src='assets/102preworkvid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -37,6 +35,9 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Recalling callback functions and arrow function and how they work with manipulating data.
+- Spread operator was simple to understand but hard to grasp the syntax.
 
 ## License
 
